@@ -1,2 +1,2 @@
-# Credenciais-do-c-u
+# Credenciais-do-céu
 ferramenta OSINT
